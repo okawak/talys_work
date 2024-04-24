@@ -1,0 +1,17 @@
+#
+# General
+#
+projectile a
+element Si
+mass 26
+energy energies
+channels y
+Ltarget 0
+#
+# Model
+#
+#alphaomp 1
+#
+# Output
+#
+#outomp y
