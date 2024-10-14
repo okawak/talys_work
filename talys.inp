@@ -4,9 +4,11 @@
 projectile a
 element Si
 mass 26
-energy energies
+energy 0.5 28 0.1
 channels y
-Ltarget 0
+outdiscrete y
+maxlevelsbin p 20
+ejectiles p
 #
 # Model
 #
